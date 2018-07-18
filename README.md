@@ -8,9 +8,9 @@ By Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Ch
 We hope that the IMDb-Face dataset could shed lights on the influences of data noise to the face recognition task, and point to potential labelling strategies to mitigate some of the problems. It could serve as a relatively clean data to facilitate future studies of noises in large-scale face recognition.
 
 ### Contents
-0. [Download](#Download)
-0. [Statistics](#Statistics)
-0. [Overlap](#Overlap)
+0. [Download](#data-download)
+0. [Statistics](#data-statistics)
+0. [Overlap with Face Recognition Benchmarks](#Overlap-with-Face-Recognition-Benchmarks)
 0. [Notation](#Notation)
 0. [Contact](#Contact)
 
