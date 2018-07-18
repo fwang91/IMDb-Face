@@ -1,6 +1,4 @@
-# IMDb-Face
-A new large-scale noise-controlled face recognition dataset.
-
+# The Devil of Face Recognition is in the Noise(ECCV'18)
 By Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy
 
 **IMDb-Face** is the new large-scale noise-controlled dataset for face recognition research. The dataset contains about 1.7 million faces, 59k identities, which is manually cleaned from 2.0 million raw images. All images obtained from IMDb website. The detailed introduction of IMDb-Face can be found in the paper.
