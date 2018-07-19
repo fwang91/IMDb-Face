@@ -1,7 +1,7 @@
 # The Devil of Face Recognition is in the Noise(ECCV'18)
 By Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy
 
-**IMDb-Face** is the new large-scale noise-controlled dataset for face recognition research. The dataset contains about 1.7 million faces, 59k identities, which is manually cleaned from 2.0 million raw images. All images obtained from IMDb website. The detailed introduction of IMDb-Face can be found in the paper.
+**IMDb-Face** is a new large-scale noise-controlled dataset for face recognition research. The dataset contains about 1.7 million faces, 59k identities, which is manually cleaned from 2.0 million raw images. All images are obtained from the IMDb website. A detailed introduction of IMDb-Face can be found in the paper.
 
 We hope that the IMDb-Face dataset could shed lights on the influences of data noise to the face recognition task, and point to potential labelling strategies to mitigate some of the problems. It could serve as a relatively clean data to facilitate future studies of noises in large-scale face recognition.
 
@@ -30,12 +30,12 @@ Total number of identities: 59k
 3. Gender distribution
 
 ### Overlap with Face Recognition Benchmarks
-We have removed the celebrity images which the identification appears in the LFW, Facescrub (MegaFace evaluation images) and YTF based on the name. You can evaluate the face recognition model (trained on IMDb-Face) on these benchmarks directly. 
+We have removed celebrity images of which the identification appear in the LFW dataset, Facescrub (MegaFace evaluation images) and YTF based on names. You can evaluate a face recognition model trained on IMDb-Face on these public benchmarks directly. 
 
 ### Notation
 (1) IMDb-Face does not own the copyright of the images. IMDb-Face only provides URLs of images. The images in their original resolutions may be subject to copyright, so we cannot make them publicly available on our server. The dataset is released for non-commercial research and/or educational purposes. 
 
-(2) If you are the celebrity included in the IMDb-Face and you do not want to be included in the dataset, please contact us and we will remove the data base on your request.
+(2) If you are the celebrity included in the IMDb-Face and you do not want to be included in the dataset, please contact us and we will remove the data based on your request.
 
 ### Contact
 [Fei Wang](wangfei@sensetime.com)
