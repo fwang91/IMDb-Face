@@ -28,7 +28,7 @@ Total number of images: 1.7M
 Total number of identities: 59k
 
 IMDb-Face dataset statistics 
-<div align=center><src="https://github.com/fwang91/IMDb-Face/blob/master/dataset_statistics/dataset_statistics.png"/></div>
+![dataset](https://github.com/fwang91/IMDb-Face/blob/master/dataset_statistics/dataset_statistics.png)
 
 ### Overlap with Face Recognition Benchmarks
 We have removed celebrity images of which the identification appear in the LFW dataset, Facescrub (MegaFace evaluation images) and YTF based on names. You can evaluate a face recognition model trained on IMDb-Face on these public benchmarks directly. 
