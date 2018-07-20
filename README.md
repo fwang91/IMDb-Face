@@ -27,14 +27,8 @@ Total number of images: 1.7M
 
 Total number of identities: 59k
 
-1. Data distribution
-<div align=center><img width="150" height="150" src="https://github.com/fwang91/IMDb-Face/blob/master/dataset_statistics/num_per_id_IMDb-Face.png"/></div>
-
-2. Head pose distribution
-<div align=center><img width="150" height="150" src="https://github.com/fwang91/IMDb-Face/blob/master/dataset_statistics/yaw_IMDb-Face.png"/></div>
-
-3. Gender distribution
-<div align=center><img width="150" height="150" src="https://github.com/fwang91/IMDb-Face/blob/master/dataset_statistics/gender_IMDb-Face.png"/></div>
+IMDb-Face dataset statistics 
+<div align=center><src="https://github.com/fwang91/IMDb-Face/blob/master/dataset_statistics/dataset_statistics.png"/></div>
 
 ### Overlap with Face Recognition Benchmarks
 We have removed celebrity images of which the identification appear in the LFW dataset, Facescrub (MegaFace evaluation images) and YTF based on names. You can evaluate a face recognition model trained on IMDb-Face on these public benchmarks directly. 
