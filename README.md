@@ -5,10 +5,10 @@ By Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Ch
 
 **IMDb-Face** is a new large-scale noise-controlled dataset for face recognition research. The dataset contains about 1.7 million faces, 59k identities, which is manually cleaned from 2.0 million raw images. All images are obtained from the IMDb website. A detailed introduction of IMDb-Face can be found in the paper(https://arxiv.org/abs/1807.11649).
 
-We hope that the IMDb-Face dataset could shed lights on the influences of data noise to the face recognition task, and point to potential labelling strategies to mitigate some of the problems. It could serve as a relatively clean data to facilitate future studies of noises in large-scale face recognition.
+We hope that the **IMDb-Face** dataset could shed lights on the influences of data noise to the face recognition task, and point to potential labelling strategies to mitigate some of the problems. It could serve as a relatively clean data to facilitate future studies of noises in large-scale face recognition.
 
 ### Citation
-If you find "IMDb-Face" useful in your research, please cite:
+If you find **IMDb-Face** useful in your research, please cite:
 
 	@article{wang2018devil,
   		title={The Devil of Face Recognition is in the Noise},
@@ -35,9 +35,9 @@ The IMDb-Face_meta-information.csv includes names, index of the image, bounding 
 ### Data Statistics
 Overall
 
-Total number of images: 1.7M
+Total number of images: **1.7M**
 
-Total number of identities: 59k
+Total number of identities: **59k**
 
 IMDb-Face dataset statistics 
 ![dataset](https://github.com/fwang91/IMDb-Face/blob/master/dataset_statistics/dataset_statistics.png)
