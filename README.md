@@ -10,7 +10,7 @@ We hope that the IMDb-Face dataset could shed lights on the influences of data n
 ### Citation
 If you find "IMDb-Face" useful in your research, please cite:
 
-		@article{wang2018devil,
+	@article{wang2018devil,
   		title={The Devil of Face Recognition is in the Noise},
   		author={Wang, Fei and Chen, Liren and Li, Cheng and Huang, Shiyao and Chen, Yanjie and Qian, Chen and Loy, Chen Change},
   		journal={arXiv preprint arXiv:1807.11649},
