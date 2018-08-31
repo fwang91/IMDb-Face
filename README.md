@@ -25,9 +25,11 @@ If you find **IMDb-Face** useful in your research, please cite:
 0. [Contact](#Contact)
 
 ### Data Download
-The IMDb-Face dataset is annotated with face-level labels and bounding boxes. The detailed information is described below.
-1. URL(IMDb-Face.csv)
-The IMDb-Face.csv download: https://drive.google.com/file/d/10na9lkJwJeNuFU65tNYrvAdDu6bUgQ_9/view?usp=sharing
+IMDb-Face.csv
+
+GoogleDrive Download: https://drive.google.com/file/d/10na9lkJwJeNuFU65tNYrvAdDu6bUgQ_9/view?usp=sharing
+
+BaiduDrive Download: https://pan.baidu.com/s/1Y0_8alstJt-BZC8mjqVF3A
 
 ### Data Statistics
 Overall
