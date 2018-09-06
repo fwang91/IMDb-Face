@@ -50,6 +50,6 @@ We have removed celebrity images of which the identification appear in the LFW d
 (2) If you are the celebrity included in the IMDb-Face and you do not want to be included in the dataset, please contact us and we will remove the data based on your request.
 
 ### Contact
-[Fei Wang](wangfei@sensetime.com)
+[Fei Wang](cloud9166@gmail.com)
 
 Questions can also be left as issues in the repository. 
