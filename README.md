@@ -27,9 +27,7 @@ If you find **IMDb-Face** useful in your research, please cite:
 ### Data Download
 IMDb-Face.csv
 
-GoogleDrive Download: https://drive.google.com/open?id=1zCCSMC0Ox17luiBzTD3we2NpTYlQd0Fb
-
-BaiduDrive Download: https://pan.baidu.com/s/1wtGjTAtaPi2UFY6zuaKuJQ
+BaiduDrive Download: https://pan.baidu.com/s/1eRylM-jMgjYL6cyU6qQd8g
 
 ### Data Statistics
 Overall
