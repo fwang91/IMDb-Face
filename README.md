@@ -29,6 +29,8 @@ IMDb-Face.csv
 
 BaiduDrive Download: https://pan.baidu.com/s/1eRylM-jMgjYL6cyU6qQd8g
 
+Note: We found that the resolution of some images has changed, so we provide the shape information of each image. If the resolution of the newly downloaded image is not the same as the one we provide, you can rescale the rectangle and get the final rectangle information.
+
 ### Data Statistics
 Overall
 
