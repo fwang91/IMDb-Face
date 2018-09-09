@@ -27,6 +27,8 @@ If you find **IMDb-Face** useful in your research, please cite:
 ### Data Download
 IMDb-Face.csv
 
+GoogleDrive Download: https://drive.google.com/open?id=134kOnRcJgHZ2eREu8QRi99qj996Ap_ML
+
 BaiduDrive Download: https://pan.baidu.com/s/1eRylM-jMgjYL6cyU6qQd8g
 
 Note: We found that the resolution of some images has changed, so we provide the shape information of each image. If the resolution of the newly downloaded image is not the same as the one we provide, you can rescale the rectangle and get the final rectangle information.
